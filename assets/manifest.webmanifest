@@ -1,0 +1,15 @@
+{
+  "background_color": "purple",
+  "description": "Shows current currency prices to US dollar",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "logo_1_2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Curr$",
+  "short_name": "Curr$",
+  "start_url": "index.html"
+}
