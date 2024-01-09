@@ -1,7 +1,7 @@
 {
   "background_color": "purple",
   "description": "Shows current currency prices to US dollar",
-  "display": "fullscreen",
+  "display": "standalone",
   "icons": [
     {
       "src": "logo_1_2.png",
@@ -11,5 +11,7 @@
   ],
   "name": "Curr$",
   "short_name": "Curr$",
-  "start_url": "../index.html"
+  "start_url": "../index.html",
+  "theme_color": "#000000",
+  "background_color": "#ff0000"
 }
